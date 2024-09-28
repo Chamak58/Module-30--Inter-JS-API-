@@ -16,6 +16,6 @@ console.log(num3);
 console.log(num1);
 
 //advance:
-//const num4 = [...num1, 9999];
+//const num4 = [...num1, 9999];//add extra elements while copy
 const num4 = [...num1];
 console.log(num4);
